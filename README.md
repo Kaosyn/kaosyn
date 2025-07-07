@@ -17,7 +17,8 @@ I'm a software developer and hobby artist who loves creating beautiful apps and 
 <ul>
   <li>Grimdarin's Heart - Novel series in my universe Foraoris</li>
   <li>MIRARI - Video Game which also plays in my universe</li>
-  <li>Con Shop Buddy - WebApp for artists selling at Artist Alleys</li> 
+  <li>Con Shop Buddy - WebApp for artists selling at artist alleys / conventions</li> 
+  <li>Mimkies Tasks - WebApp for a gamified task lists</li> 
 </ul>
 
 <h4>👾 LANGUAGES & TOOLS </h4>
