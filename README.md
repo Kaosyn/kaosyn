@@ -21,7 +21,7 @@ I'm a software developer and hobby artist who loves creating beautiful apps and 
   <li>Mimkies Tasks - WebApp for a gamified task lists</li> 
 </ul>
 
-<h4>👾 LANGUAGES & TOOLS </h4>
+<h4>👾 LANGUAGES & FRAMEWORKS </h4>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
