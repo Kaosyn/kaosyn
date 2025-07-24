@@ -15,10 +15,10 @@ I'm a software developer and hobby artist who loves creating beautiful apps and 
 
 <h4>👾 1001 PROJECTS </h4>
 <ul>
-  <li>Grimdarin's Heart - Novel series in my universe Foraoris</li>
-  <li>MIRARI - Video Game which also plays in my universe</li>
+  <li>Grimdarin's Heart: Glamouria - Novel series in my universe Foraoris</li>
+  <li>Grimdarin's Heart: MIRARI - Prequel of GH: Glamouria</li>
+  li>Grimdarin's Heart: Vestige - Video Game (RPG) and sequel to GH: Glamouria</li>
   <li>Con Shop Buddy - WebApp for artists selling at artist alleys / conventions</li> 
-  <li>Mimkies Tasks - WebApp for a gamified task lists</li> 
 </ul>
 
 <h4>👾 LANGUAGES & FRAMEWORKS </h4>
