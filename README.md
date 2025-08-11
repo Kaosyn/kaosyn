@@ -18,6 +18,7 @@ I'm a software developer and hobby artist who loves creating beautiful apps and 
   <li>Grimdarin's Heart: Glamouria - Novel series in my universe Foraoris</li>
   <li>Grimdarin's Heart: MIRARI - Prequel of GH: Glamouria</li>
   <li>Grimdarin's Heart: Vestige - Video Game (RPG) and sequel to GH: Glamouria</li>
+  <li>Author Helper - RAG experiment for navigating world building data for writers</li> 
   <li>Con Shop Buddy - WebApp for artists selling at artist alleys / conventions</li> 
 </ul>
 
