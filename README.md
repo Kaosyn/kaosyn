@@ -10,6 +10,7 @@ I'm a software developer and hobby artist who is passionate about beautiful art,
    <li><a href="https://bsky.app/profile/kaosyn.bsky.social" target="blank"> Bsky </a></li>
   <li><a href="https://instagram.com/kaosyn" target="blank"> Instagram </a></li>
   <li><a href="https://steamcommunity.com/id/Khaosyn" target="blank"> Steam </a></li> 
+  <li><a href="https://www.linkedin.com/in/sara-sch%C3%B6nherr-966b1a1b2/" target="blank"> </a></li>
 </ul>
 
 <h4>👾 1001 PROJECTS </h4>
@@ -17,7 +18,7 @@ I'm a software developer and hobby artist who is passionate about beautiful art,
   <li>Artist Buddy - WebApp for artists selling at artist alleys / conventions</li> 
   <li>Grimdarin's Heart: Glamouria - Novel series in my universe Foraoris</li>
   <li>Grimdarin's Heart: Vestige - Video Game (RPG) and sequel to GH: Glamouria</li>
-  <li>Author Helper - RAG experiment for navigating world building data for writers</li> 
+  <li>Reverion - RAG experiment for navigating world building data for writers</li> 
 </ul>
 
 <h4>👾 LANGUAGES, TOOLS & FRAMEWORKS </h4>
