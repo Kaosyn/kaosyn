@@ -10,7 +10,7 @@ I'm a software developer and hobby artist who is passionate about beautiful art,
    <li><a href="https://bsky.app/profile/kaosyn.bsky.social" target="blank"> Bsky </a></li>
   <li><a href="https://instagram.com/kaosyn" target="blank"> Instagram </a></li>
   <li><a href="https://steamcommunity.com/id/Khaosyn" target="blank"> Steam </a></li> 
-  <li><a href="https://www.linkedin.com/in/sara-sch%C3%B6nherr-966b1a1b2/" target="blank"> </a></li>
+  <li><a href="https://www.linkedin.com/in/sara-sch%C3%B6nherr-966b1a1b2/" target="blank"> LinkedIn </a></li>
 </ul>
 
 <h4>👾 1001 PROJECTS </h4>
