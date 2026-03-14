@@ -9,7 +9,6 @@ I'm a software developer and hobby artist who is passionate about beautiful art,
 <ul>
    <li><a href="https://bsky.app/profile/kaosyn.bsky.social" target="blank"> Bsky </a></li>
   <li><a href="https://instagram.com/kaosyn" target="blank"> Instagram </a></li>
-  <li><a href="https://patreon.com/Kaosyn" target="blank"> Patreon </a></li>
   <li><a href="https://steamcommunity.com/id/Khaosyn" target="blank"> Steam </a></li> 
 </ul>
 
