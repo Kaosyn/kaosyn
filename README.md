@@ -2,7 +2,7 @@
 <h4>👾 ABOUT ME</h4>
   <p>
   Hi, I’m Kaosyn 👋 <br>
-I'm a software developer and hobby artist who loves creating beautiful apps and games. I’m passionate about art, character design and clean code. Lately, I’ve been exploring Godot and game development.
+I'm a software developer and hobby artist who is passionate about beautiful art, character design and web apps. Lately, I’ve been exploring Godot and game development.
 </p>
 
 <h4>👾 LINKS </h4>
